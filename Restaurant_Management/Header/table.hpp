@@ -1,14 +1,15 @@
-#ifndef TABLE_H
-#define TABLE_H
-
 /*
 * File: table.hpp
 * Author: Phan Hoang Trung
-* Date: 07/08/2023
+* Date: 07/05/2023
 * Description: This is a file include function declaration of one table
 */
 
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 2 - Restaurant Management\Header\order.hpp"
+#ifndef TABLE_H
+#define TABLE_H
+
+
+#include "Header/order.hpp"
 
 
 class Table

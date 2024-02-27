@@ -1,14 +1,14 @@
 /*
 * File: main.cpp
 * Author: Phan Hoang Trung
-* Date: 07/08/2023
+* Date: 07/05/2023
 * Description: This is a main file for restaurant management
 * 
 */
 
 
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 2 - Restaurant Management\Header\table.hpp"
-#include "C:\Users\Trine\Desktop\EmbeddedInterview\C++\Assignment 2 - Restaurant Management\Header\operation.hpp"
+#include "Header/table.hpp"
+#include "Header/operation.hpp"
 #include <vector>
 
 int main()
